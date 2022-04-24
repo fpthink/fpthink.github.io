@@ -1,0 +1,37 @@
+# jemdoc: menu{MENU}{index.html} 
+==Le Hui 惠乐 
+
+~~~
+{}{img_left}{image/lehui_v2.jpg}{alt text}{140}{164}
+PhD Student, \n 
+[http://cs.njust.edu.cn/  Computer Science and Engineering Department], \n
+[http://www.njust.edu.cn  Nanjing University of Science and Technology] \n
+Xiaolingwei Street 200, Xuanwu District \n
+Nanjing, China \n 
+Email: /le.hui/ \[@\] njust \[DOT\] edu \[DOT\] cn
+~~~
+
+== About me
+I am currently a PhD student, [http://www.njust.edu.cn Nanjing University of Science and Technology], China, under the supervision of Prof. [https://scholar.google.com.hk/citations?user=6CIDtZQAAAAJ&hl=en Jian Yang] and Prof. [https://csjinxie.github.io/ Jin Xie]. Here is my full [./papers/LeHui_cv.pdf CV].
+
+== Research
+My research is in the area of 3D computer vision, especially in 3D scene understanding.
+- 3D Feature Extraction Backbone Network
+- Fully/Semi-Supervised Point Cloud Semantic & Instance Segmentation
+- 3D Single Object Tracking
+- Point Cloud Generation
+- Large-Scale Point Cloud based Place Recognition
+- Point Cloud Registration
+
+[research.html Find out more]
+
+== Recent Publications 
+. Yaqi Shen, *Le Hui*, Haobo Jiang, Jin Xie and Jian Yang, \"Reliable Inlier Evaluation for Unsupervised Point Cloud Registration\", AAAI 2022. \[[https://www.aaai.org/AAAI22Papers/AAAI-4754.ShenY.pdf pdf]\] \[[https://github.com/supersyq/RIENet Code]\]
+. Rui Xu, Zongyan Han, *Le Hui*, Jianjun Qian and Jin Xie, \"Domain Disentangled Generative Adversarial Network for Zero-Shot Sketch-Based 3D Shape Retrieval\", AAAI 2022. \[[https://arxiv.org/pdf/2202.11948 pdf]\] \[[https://github.com/Luffy212/DD-GAN Code]\]
+. *Le Hui*, Mingmei Cheng, Jin Xie, Jian Yang and Mingming Cheng, \"Efficient 3D Point Cloud Feature Learning for Large-Scale Place Recognition\", TIP 2022. \[[https://arxiv.org/abs/2101.02374 pdf]\] \[[https://github.com/fpthink/EPC-Net Code]\]
+. *Le Hui*\*, Lingpeng Wang\*, Mingmei Cheng, Jin Xie and Jian Yang. \"3D Siamese Voxel-to-BEV Tracker for Sparse Point Clouds\", NeurIPS 2021. \[[https://arxiv.org/abs/2111.04426 pdf]\] \[[https://github.com/fpthink/V2B Code]\]
+. Yifan Zhao\*, *Le Hui*\* and Jin Xie. \"SSPU-Net: Self-Supervised Point Cloud Upsampling via Differentiable Rendering\", ACM MM 2021. \[[https://arxiv.org/abs/2108.00454 pdf]\] \[[https://github.com/fpthink/SSPU-Net Code]\]
+. *Le Hui*, Hang Yang, Mingmei Cheng, Jin Xie and Jian Yang. \"Pyramid Point Cloud Transformer for Large-Scale Place Recognition\", ICCV 2021. \[[https://openaccess.thecvf.com/content/ICCV2021/papers/Hui_Pyramid_Point_Cloud_Transformer_for_Large-Scale_Place_Recognition_ICCV_2021_paper.pdf pdf]\] \[[https://github.com/fpthink/PPT-Net Code]\]
+. *Le Hui*, Jia Yuan, Mingmei Cheng, Jin Xie, Xiaoya Zhang and Jian Yang. \"Superpoint Network for Point Cloud Oversegmentation\", ICCV 2021. \[[https://openaccess.thecvf.com/content/ICCV2021/papers/Hui_Superpoint_Network_for_Point_Cloud_Oversegmentation_ICCV_2021_paper.pdf pdf]\] \[[https://github.com/fpthink/SPNet Code]\]
+
+[publications.html Full list of publications]

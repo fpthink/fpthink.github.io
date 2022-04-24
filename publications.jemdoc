@@ -1,0 +1,131 @@
+# jemdoc: menu{MENU}{index.html} 
+==Le Hui 惠乐 
+
+~~~
+{}{img_left}{image/lehui_v2.jpg}{alt text}{140}{164}
+PhD Student, \n 
+[http://cs.njust.edu.cn/  Computer Science and Engineering Department], \n
+[http://www.njust.edu.cn  Nanjing University of Science and Technology] \n
+Xiaolingwei Street 200, Xuanwu District \n
+Nanjing, China \n 
+Email: /le.hui/ \[@\] njust \[DOT\] edu \[DOT\] cn
+~~~
+
+== About me
+I am currently a PhD student, [http://www.njust.edu.cn Nanjing University of Science and Technology], China, under the supervision of Prof. [https://scholar.google.com.hk/citations?user=6CIDtZQAAAAJ&hl=en Jian Yang] and Prof. [https://csjinxie.github.io/ Jin Xie].
+
+== Publications
+Conference \n
+~~~
+{}{img_left}{image/AAAI22_YaqiShen.jpg}{alt text}{290}{150}
+*Reliable Inlier Evaluation for Unsupervised Point Cloud Registration* \n
+The Thirty-Sixth AAAI Conference on Artificial Intelligence, AAAI 2022 \n
+Yaqi Shen, *Le Hui*, Haobo Jiang, Jin Xie and Jian Yang \n
+\[[https://www.aaai.org/AAAI22Papers/AAAI-4754.ShenY.pdf Paper]\] \[[https://github.com/supersyq/RIENet Code]\]
+~~~
+
+~~~
+{}{img_left}{image/AAAI22_RuiXu.jpg}{alt text}{290}{150}
+*Domain Disentangled Generative Adversarial Network for Zero-Shot Sketch-Based 3D Shape Retrieval* \n
+The Thirty-Sixth AAAI Conference on Artificial Intelligence, AAAI 2022 \n
+Rui Xu, Zongyan Han, *Le Hui*, Jianjun Qian and Jin Xie \n
+\[[https://arxiv.org/pdf/2202.11948 Paper]\] \[[https://github.com/Luffy212/DD-GAN Code]\]
+~~~
+
+~~~
+{}{img_left}{image/NeurIPS21_LeHui.jpg}{alt text}{290}{150}
+*3D Siamese Voxel-to-BEV Tracker for Sparse Point Clouds* \n
+The Thirty-Fifth Conference on Neural Information Processing Systems, NeurIPS 2021 \n
+*Le Hui*\*, Lingpeng Wang\*, Mingmei Cheng, Jin Xie and Jian Yang (* equal contribution) \n
+\[[https://arxiv.org/abs/2111.04426 Paper]\] \[[https://github.com/fpthink/V2B Code]\]
+~~~
+
+~~~
+{}{img_left}{image/ACMMM21_YifanZhao.jpg}{alt text}{290}{150}
+*SSPU-Net: Self-Supervised Point Cloud Upsampling via Differentiable Rendering* \n
+The 29th ACM International Conference on Multimedia, ACM MM 2021 \n
+Yifan Zhao\*, *Le Hui*\* and Jin Xie (* equal contribution) \n
+\[[https://arxiv.org/abs/2108.00454 Paper]\] \[[https://github.com/fpthink/SSPU-Net Code]\]
+~~~
+
+~~~
+{}{img_left}{image/ICCV21_LeHui_PPT-Net.jpg}{alt text}{290}{150}
+*Pyramid Point Cloud Transformer for Large-Scale Place Recognition* \n
+IEEE International Conference on Computer Vision, ICCV 2021 \n
+*Le Hui*, Hang Yang, Mingmei Cheng, Jin Xie and Jian Yang \n
+\[[https://openaccess.thecvf.com/content/ICCV2021/papers/Hui_Pyramid_Point_Cloud_Transformer_for_Large-Scale_Place_Recognition_ICCV_2021_paper.pdf Paper]\] \[[https://github.com/fpthink/PPT-Net Code]\]
+~~~
+
+~~~
+{}{img_left}{image/ICCV21_LeHui_SPNet.jpg}{alt text}{290}{150}
+*Superpoint Network for Point Cloud Oversegmentation* \n
+IEEE International Conference on Computer Vision, ICCV 2021 \n
+*Le Hui*, Jia Yuan, Mingmei Cheng, Jin Xie, Xiaoya Zhang and Jian Yang \n
+\[[https://openaccess.thecvf.com/content/ICCV2021/papers/Hui_Superpoint_Network_for_Point_Cloud_Oversegmentation_ICCV_2021_paper.pdf Paper]\] \[[https://github.com/fpthink/SPNet Code]\]
+~~~
+
+~~~
+{}{img_left}{image/AAAI21_MingmeiCheng.jpg}{alt text}{290}{150}
+*SSPC-Net: Semi-supervised Semantic 3D Point Cloud Segmentation Network* \n
+The Thirty-Fifth AAAI Conference on Artificial Intelligence, AAAI 2021 \n
+Mingmei Cheng, *Le Hui*, Jin Xie and Jian Yang \n
+\[[https://arxiv.org/abs/2104.07861 Paper]\] \[[https://github.com/MMCheng/SSPC-Net Code]\]
+~~~
+
+~~~
+{}{img_left}{image/ECCV20_LeHui.jpg}{alt text}{290}{150}
+*Progressive Point Cloud Deconvolution Generation Network* \n
+European Conference on Computer Vision, ECCV 2020 \n
+*Le Hui*, Rui Xu, Jin Xie, Jianjun Qian and Jian Yang \n
+\[[https://arxiv.org/abs/2007.05361 Paper]\] \[[https://github.com/fpthink/PDGN Code]\]
+~~~
+
+~~~
+{}{img_left}{image/IROS20_MingmeiCheng.jpg}{alt text}{290}{150}
+*Cascaded Non-local Neural Network for Point Cloud Semantic Segmentation* \n
+International Conference on Intelligent Robots and Systems, IROS 2020 \n
+Mingmei Cheng, *Le Hui*, Jin Xie, Jian Yang and Hui Kong \n
+\[[https://arxiv.org/abs/2007.15488 Paper]\] \[[https://github.com/MMCheng/PointNL Code]\]
+~~~
+
+~~~
+{}{img_left}{image/AAAI19_LeHui.jpg}{alt text}{290}{150}
+*Inter-Class Angular Loss for Convolution Neural Networks* \n
+The Thirty-Third AAAI Conference on Artificial Intelligence, AAAI 2019 \n
+*Le Hui*, Xiang Li, Chen Gong, Meng Fang, Joey Tianyi Zhou and Jian Yang \n
+\[[https://ojs.aaai.org/index.php/AAAI/article/view/4278 Paper]\] \[[https://github.com/fpthink/ICAL Code]\]
+~~~
+
+~~~
+{}{img_left}{image/AAAI19_ShuoChen.jpg}{alt text}{290}{150}
+*Data-Adaptive Metric Learning with Scale Alignment* \n
+The Thirty-Third AAAI Conference on Artificial Intelligence, AAAI 2019 \n
+Shuo Chen, Chen Gong, Jian Yang, Ying Tai, *Le Hui* and Jun Li \n
+\[[https://ojs.aaai.org/index.php/AAAI/article/view/4208 Paper]\]
+~~~
+
+~~~
+{}{img_left}{image/ICPR18_LeHui.jpg}{alt text}{290}{150}
+*Unsupervised Multi-Domain Image Translation with Domain-Specific Encoders/Decoders* \n
+The 24th International Conference on Pattern Recognition, ICPR 2018 \n
+*Le Hui*, Xiang Li, Jiaxin Chen, Hongliang He and Jian Yang \n
+\[[https://arxiv.org/abs/1712.02050 Paper]\]
+~~~
+
+~~~
+{}{img_left}{image/ICPR18_JingZhang.jpg}{alt text}{290}{150}
+*Attention-based Neural Network for Traffic Sign Detection* \n
+The 24th International Conference on Pattern Recognition, ICPR 2018 \n
+Jing Zhang, *Le Hui*, Jianfeng Lu and Yuhua Zhu \n
+\[[https://ieeexplore.ieee.org/document/8546289/ Paper]\]
+~~~
+
+
+Journal \n
+~~~
+{}{img_left}{image/TIP22_LeHui.jpg}{alt text}{290}{150}
+*Efficient 3D Point Cloud Feature Learning for Large-Scale Place Recognition* \n
+IEEE Transactions on Image Processing, TIP 2022 \n
+*Le Hui*, Mingmei Cheng, Jin Xie, Jian Yang and Mingming Cheng \n
+\[[https://arxiv.org/abs/2101.02374 Paper]\] \[[https://github.com/fpthink/EPC-Net Code]\]
+~~~
