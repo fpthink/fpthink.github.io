@@ -12,7 +12,7 @@ Email: /le.hui/ \[@\] njust \[DOT\] edu \[DOT\] cn
 ~~~
 
 == About me
-I am currently a PhD student, [http://www.njust.edu.cn Nanjing University of Science and Technology], China, under the supervision of Prof. [https://scholar.google.com.hk/citations?user=6CIDtZQAAAAJ&hl=en Jian Yang] and Prof. [https://csjinxie.github.io/ Jin Xie]. Here is my full [./papers/LeHui_cv.pdf CV].
+I am currently a PhD student, [http://www.njust.edu.cn Nanjing University of Science and Technology], China, under the supervision of Prof. [https://scholar.google.com.hk/citations?user=6CIDtZQAAAAJ&hl=en Jian Yang] and Prof. [https://csjinxie.github.io/ Jin Xie]. Here is my full [./papers/LeHui_cv_v1.pdf CV].
 
 == Research
 My research is in the area of 3D computer vision, especially in 3D scene understanding.
@@ -26,6 +26,11 @@ My research is in the area of 3D computer vision, especially in 3D scene underst
 [research.html Find out more]
 
 == Recent Publications 
+. *Le Hui*\*, Linghua Tang\*, Yaqi Shen, Jin Xie and Jian Yang. \"Learning Superpoint Graph Cut for 3D Instance Segmentation\", NeurIPS 2022.
+. *Le Hui*, Lingpeng Wang, Linghua Tang, Kaihao Lan, Jin Xie and Jian Yang, \"3D Siamese Transformer Network for Single Object Tracking on Point Clouds\", ECCV 2022. \[[https://arxiv.org/pdf/2207.11995.pdf pdf]\] \[[https://github.com/fpthink/STNet Code]\]
+. Mu He, *Le Hui*, Yikai Bian, Jian Ren, Jin Xie and Jian Yang, \"RA-Depth: Resolution Adaptive Self-Supervised Monocular Depth Estimation\", ECCV 2022. \[[https://arxiv.org/pdf/2207.11984.pdf pdf]\]  \[[https://github.com/hmhemu/RA-Depth Code]\]
+. Yuehui Han, *Le Hui*, Haobo Jiang, Jianjun Qian and Jin Xie, \"Generative Subgraph Contrast for Self-Supervised Graph Representation Learning\", ECCV 2022. \[[https://arxiv.org/pdf/2207.11996.pdf pdf]\]  \[[https://github.com/yh-han/GSC Code]\]
+. Yikai Bian, *Le Hui*, Jianjun Qian and Jin Xie, \"Unsupervised Domain Adaptation for Point Cloud Semantic Segmentation via Graph Matching\", IROS 2022. \[[https://arxiv.org/pdf/2208.04510.pdf pdf]\]  \[[https://github.com/BianYikai/PointUDA Code]\]
 . *Le Hui*, Mingmei Cheng, Jin Xie, Jian Yang and Mingming Cheng, \"Efficient 3D Point Cloud Feature Learning for Large-Scale Place Recognition\", TIP 2022. \[[https://arxiv.org/abs/2101.02374 pdf]\] \[[https://github.com/fpthink/EPC-Net Code]\]
 . Yaqi Shen, *Le Hui*, Haobo Jiang, Jin Xie and Jian Yang, \"Reliable Inlier Evaluation for Unsupervised Point Cloud Registration\", AAAI 2022. \[[https://www.aaai.org/AAAI22Papers/AAAI-4754.ShenY.pdf pdf]\] \[[https://github.com/supersyq/RIENet Code]\]
 . Rui Xu, Zongyan Han, *Le Hui*, Jianjun Qian and Jin Xie, \"Domain Disentangled Generative Adversarial Network for Zero-Shot Sketch-Based 3D Shape Retrieval\", AAAI 2022. \[[https://arxiv.org/pdf/2202.11948 pdf]\] \[[https://github.com/Luffy212/DD-GAN Code]\]
