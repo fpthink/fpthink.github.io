@@ -26,6 +26,7 @@ My research is in the area of 3D computer vision, especially in 3D scene underst
 [research.html Find out more]
 
 == Recent Publications 
+. Linghua Tang, *Le Hui* and Jin Xie. \"Learning Inter-Superpoint Affinity for Weakly Supervised 3D Instance Segmentation\", ACCV 2022.
 . *Le Hui*\*, Linghua Tang\*, Yaqi Shen, Jin Xie and Jian Yang. \"Learning Superpoint Graph Cut for 3D Instance Segmentation\", NeurIPS 2022.
 . *Le Hui*, Lingpeng Wang, Linghua Tang, Kaihao Lan, Jin Xie and Jian Yang, \"3D Siamese Transformer Network for Single Object Tracking on Point Clouds\", ECCV 2022. \[[https://arxiv.org/pdf/2207.11995.pdf pdf]\] \[[https://github.com/fpthink/STNet Code]\]
 . Mu He, *Le Hui*, Yikai Bian, Jian Ren, Jin Xie and Jian Yang, \"RA-Depth: Resolution Adaptive Self-Supervised Monocular Depth Estimation\", ECCV 2022. \[[https://arxiv.org/pdf/2207.11984.pdf pdf]\]  \[[https://github.com/hmhemu/RA-Depth Code]\]
