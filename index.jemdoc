@@ -3,16 +3,16 @@
 
 ~~~
 {}{img_left}{image/lehui_v2.jpg}{alt text}{140}{164}
-PhD Student, \n 
-[http://cs.njust.edu.cn/  Computer Science and Engineering Department], \n
-[http://www.njust.edu.cn  Nanjing University of Science and Technology] \n
-Xiaolingwei Street 200, Xuanwu District \n
-Nanjing, China \n 
-Email: /le.hui/ \[@\] njust \[DOT\] edu \[DOT\] cn
+Associate Professor, \n 
+[https://dianzi.nwpu.edu.cn/  Electronics and Information], \n
+[https://www.nwpu.edu.cn  Northwestern Polytechnical University] \n
+Dongxiang Road 1, Chang'an District \n
+Xi'an, China \n 
+Email: /huile/ \[@\] nwpu \[DOT\] edu \[DOT\] cn
 ~~~
 
 == About me
-I am currently a PhD student, [http://www.njust.edu.cn Nanjing University of Science and Technology], China, under the supervision of Prof. [https://scholar.google.com.hk/citations?user=6CIDtZQAAAAJ&hl=en Jian Yang] and Prof. [https://csjinxie.github.io/ Jin Xie]. Here is my full [./papers/LeHui_cv_v1.pdf CV].
+I am currently an associate professor, [https://www.nwpu.edu.cn Northwestern Polytechnical University]. I'm a member of the [http://npu-cvr.cn Computer Vision and Robotics Group] led by Prof. Yuchao Dai. I did my Ph.D in the Department of computer science and engineering, Nanjing University of Science and Technology, under the supervision of Prof. [https://scholar.google.com.hk/citations?user=6CIDtZQAAAAJ&hl=en Jian Yang] and Prof. [https://csjinxie.github.io/ Jin Xie]. Here is my full [./papers/LeHui_cv_v1.pdf CV].
 
 == Research
 My research is in the area of 3D computer vision, especially in 3D scene understanding.
@@ -26,6 +26,10 @@ My research is in the area of 3D computer vision, especially in 3D scene underst
 [research.html Find out more]
 
 == Recent Publications 
+. Rui Xu, *Le Hui*, Yuehui Han, Jianjun Qian and Jin Xie. \"Scene Graph Masked Variational Autoencoders for 3D Scene Generation\", ACM MM 2023.
+. Rui Xu, *Le Hui*, Yuehui Han, Jianjun Qian and Jin Xie. \"Transformer-based Point Cloud Generation Network\", ACM MM 2023.
+. *Le Hui*, Linghua Tang, Jin Xie, Jian Yang and Yuchao Dai. \"Efficient LiDAR Point Cloud Oversegmentation Network\", ICCV 2023.
+. Yaqi Shen, *Le Hui*, Jin Xie and Jian Yang. \"Self-supervised 3D Scene Flow Estimation Guided by Superpoints\", CVPR 2023.
 . Linghua Tang, *Le Hui* and Jin Xie. \"Learning Inter-Superpoint Affinity for Weakly Supervised 3D Instance Segmentation\", ACCV 2022.
 . *Le Hui*\*, Linghua Tang\*, Yaqi Shen, Jin Xie and Jian Yang. \"Learning Superpoint Graph Cut for 3D Instance Segmentation\", NeurIPS 2022.
 . *Le Hui*, Lingpeng Wang, Linghua Tang, Kaihao Lan, Jin Xie and Jian Yang, \"3D Siamese Transformer Network for Single Object Tracking on Point Clouds\", ECCV 2022. \[[https://arxiv.org/pdf/2207.11995.pdf pdf]\] \[[https://github.com/fpthink/STNet Code]\]
